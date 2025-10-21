@@ -1,7 +1,11 @@
 
 # 🩺 AI Stethoscope: Heart Sound Classification using LSTM
 
-This project presents an **AI-powered digital stethoscope** capable of distinguishing between **heart** and **lung** sounds and classifying them into specific disease categories. Using **Long Short-Term Memory (LSTM)** networks, the system analyzes physiological audio signals to detect conditions such as **asthma, pneumonia, murmurs, stenosis, and more**.
+This project presents an **AI
+
+https://github.com/user-attachments/assets/d3645da0-6a5a-4f9a-b2b1-0d60f647e357
+
+-powered digital stethoscope** capable of distinguishing between **heart** and **lung** sounds and classifying them into specific disease categories. Using **Long Short-Term Memory (LSTM)** networks, the system analyzes physiological audio signals to detect conditions such as **asthma, pneumonia, murmurs, stenosis, and more**.
 
 
 ### 🫁 Lung Sounds:
